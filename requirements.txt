@@ -1,5 +1,5 @@
 streamlit
-polygon
+polygon-api-client
 supabase
 plotly
 scikit-learn
