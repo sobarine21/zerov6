@@ -1,1 +1,10 @@
 streamlit
+kiteconnect
+supabase
+plotly
+scikit-learn
+lightgbm
+ta
+yfinance
+matplotlib
+shap
