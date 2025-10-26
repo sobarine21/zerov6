@@ -1,5 +1,5 @@
 streamlit
-kiteconnect
+polygon
 supabase
 plotly
 scikit-learn
